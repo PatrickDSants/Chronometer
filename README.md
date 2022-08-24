@@ -1,6 +1,6 @@
 <h1 align="center" id="Título-e-Imagem-de-capa"> Chronometer </h1>
 
-<a href= "https://patrickdsants.github.io/Chronometer/">SITE HERE</a>
+<a href= "https://chronometer-iota.vercel.app/">SITE HERE</a>
 
 <p align="center">
 <a href="https://github.com/PatrickDSants/landingpage/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/PatrickDSants/landingpage?style=for-the-badge"></a>
