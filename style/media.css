@@ -1,0 +1,23 @@
+@media screen and (max-width: 820px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    button {
+        padding: 4px 20px;
+    }
+
+    #stop-btn {
+        padding-left: 25px;
+    }
+
+    #pause-btn {
+        padding-right: 25px;
+    }
+
+    #container {
+        border: none;
+        box-shadow: none;
+    }
+
+}

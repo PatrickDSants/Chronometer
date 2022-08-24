@@ -36,6 +36,7 @@
     flex-flow: column nowrap;
     align-items: center;
     justify-content: space-evenly;
+    box-sizing: border-box
 }
 
 a {
